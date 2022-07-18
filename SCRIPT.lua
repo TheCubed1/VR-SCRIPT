@@ -96,9 +96,9 @@ local function C_LocalScript_8()
 	script.Parent.MouseButton1Click:Connect(function()
 		wait(5)
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/TheCubed1/VR-SCRIPT/main/CLOV%20VR%201.lua"))();
-		wait(1)
+		wait(2.5)
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/TheCubed1/VR-SCRIPT/main/CLOV%20VR%202.lua"))();
-		wait(1)
+		wait(2.5)
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/TheCubed1/VR-SCRIPT/main/CLOV%20VR%203.lua"))();
 		wait(5)
 		script.Parent.Parent.Visible = false
